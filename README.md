@@ -63,5 +63,5 @@ Tested on the fixed NN-PA model:
 * GRU provides a **practical and robust solution** for real-world transmitters
 
 
-Check out the ppt here:
-Check out project report here:
+Check out the ppt here:https://github.com/Mrunali0412/Deep-DPD-modelling-for-PA-Linearization/blob/main/PA%20linearization%20project%20Mrunali.pptx
+
